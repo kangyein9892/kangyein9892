@@ -3,6 +3,7 @@
 ## 💜 Hello! I'm Yein Kang 💜
 
  I'm Studying Android, Kotlin.<br>
+
   <a href="https://yenitory.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5500?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
  
 
