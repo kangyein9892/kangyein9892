@@ -1,6 +1,6 @@
 <div align="center">
   
-## 💜 Hello! I'm Yein Kang 💜
+## 💜 Hello!💜
 
  I'm Studying Android, Kotlin.<br>
 
